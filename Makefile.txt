@@ -1,0 +1,3 @@
+# Makefile for Parking Management System
+all:
+	g++ main.cpp vehicle.cpp billing.cpp auth.cpp -o parking_system
